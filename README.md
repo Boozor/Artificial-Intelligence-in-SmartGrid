@@ -1,4 +1,4 @@
-# Power_Load_Prediction
+# SmartGrid-PowerLoadPrediction
 
 This project focuses on analyzing load and temperature data collected from utility companies in the US,
 consisting of 20 load zones with varying patterns of hourly load values and 11 temperature stations with
